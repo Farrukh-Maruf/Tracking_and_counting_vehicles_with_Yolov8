@@ -1,0 +1,6 @@
+Ultralytics YOLOv8.0.234
+python-3.10.12
+torch-2.1.0+cu121 
+CUDA:0 (Tesla T4, 15102MiB)
+yolox.__version__: 0.1.0
+supervision.__version__: 0.1.0
