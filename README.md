@@ -12,3 +12,6 @@ The primary objective of this project is to develop a comprehensive vehicle trac
 ![picture_of_counting](https://github.com/Farrukh-Maruf/Tracking_and_counting_vehicles_with_Yolov8/assets/115053478/47b85ffd-17ad-45ce-a72e-32b6eb09db1a)
 
 
+
+
+
